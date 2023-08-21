@@ -1,0 +1,167 @@
+.fixed {
+    position: fixed;
+    right: 0;
+        top: 0;
+    width:5000rem;
+    height: 50px;
+    background-color: #AFDCEC;
+}
+.gif {
+    position: fixed;
+    top: 0;
+    right: 47%;
+}
+div {
+    background-color: #E4f9f5;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    color:#40514e;
+}
+
+h1 {
+    margin: 30px auto 0 auto;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    line-height: 2;
+}
+
+h2 {
+    font-size: 1rem;
+    color: #66bfbf;
+    font-weight: normal;
+    padding-bottom:10px ;
+}
+
+h3 {
+    color: #11999E;
+}
+ 
+a {
+    color: #11999E;
+}
+a:hover {
+    color: #eaf6f6;
+}
+
+p {
+    line-height: 2;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+
+.top-container {
+    background-color: #E4f9f5;
+    padding-top: 100px;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px;
+    text-align: right;
+}
+
+.python-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.web-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cd;
+    background-image: -webkit-linear-gradient(top, #30e3cd, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cd, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cd, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cd, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cd, #2bc4ad);
+    text-decoration: none;
+  }
+  
+  
+.middle-container {
+    margin:100px 0 ;
+    margin-top: 80px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+    
+    
+}
+
+hr {
+    border: dotted  #e3f6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.cantact-message {
+    width:40% ;
+    margin: 40px auto 60px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding-top:10px ;
+}
+
+.copyright {
+    padding: 50px 0 20px;
+    margin-bottom: 0;
+    font-size: 0.75rem;
+    color: #eaf6f6;
+}
+
+.footer-link {
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.web-discription {
+    margin: 0;
+}
+.btm-button {
+    font-weight: bold;
+}
+.mountain-img {
+    margin-top: 30px;
+}
+
+
